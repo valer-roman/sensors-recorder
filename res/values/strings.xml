@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SensorsRecorder</string>
+	<string name="sensors_switch_on">Stop sensors</string>
+	<string name="sensors_switch_off">Start sensors</string>
+	<string name="sensors_switch_prepare">Prepare ..</string>
+	<string name="sensors_switch_3">3..</string>
+	<string name="sensors_switch_2">2..</string>
+	<string name="sensors_switch_1">1..</string>
+	<string name="sensors_switch_go">GO!</string>
+    <string name="radio_delay_fastest">Fastest</string>
+    <string name="radio_delay_game">Game</string>
+    <string name="radio_delay_normal">Normal</string>
+    <string name="radio_delay_ui">UI</string>
+</resources>
